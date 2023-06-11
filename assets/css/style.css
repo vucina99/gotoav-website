@@ -843,15 +843,15 @@ section {
 --------------------------------------------------------------*/
 
 .lawbackground{
-  background-image: url("../img/law2.avif");
-  background-position: left;
+  background-image: url("../img/car-accident-claim.jpg");
+  background-position: center;
   background-attachment: fixed;
   width: 100%;
-  min-height: 22vh;
+  min-height: 30vh;
 }
 .lavsilver{
   background-color: rgba(0,0,0,0.5);
-  min-height: 22vh;
+  min-height: 30vh;
 }
 .lavsilver h5{
  font-size: 25px;
