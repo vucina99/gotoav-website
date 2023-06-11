@@ -790,42 +790,6 @@ section {
   margin-bottom: 0;
 }
 
-/*--------------------------------------------------------------
-# Skills
---------------------------------------------------------------*/
-.skills .progress {
-  height: 60px;
-  display: block;
-  background: none;
-  border-radius: 0;
-}
-
-.skills .progress .skill {
-  padding: 0;
-  margin: 0 0 6px 0;
-  text-transform: uppercase;
-  display: block;
-  font-weight: 600;
-  font-family: "Poppins", sans-serif;
-  color: #222222;
-}
-
-.skills .progress .skill .val {
-  float: right;
-  font-style: normal;
-}
-
-.skills .progress-bar-wrap {
-  background: #e2eefd;
-  height: 10px;
-}
-
-.skills .progress-bar {
-  width: 1px;
-  height: 10px;
-  transition: 0.9s;
-  background-color: #106eea;
-}
 
 /*--------------------------------------------------------------
 # Counts
@@ -1505,7 +1469,10 @@ section {
   font-size: 13px;
   color: #444444;
 }
-
+.osnovano{
+  font-size: 18px;
+  padding-top: 7px;
+}
 @media (max-width: 768px) {
 
   #footer .copyright,
@@ -1514,6 +1481,9 @@ section {
     text-align: center;
     padding: 2px 0;
   }
+  .osnovano{
+    font-size: 10px;
+  }
 }
 
 
@@ -1521,4 +1491,8 @@ section {
   display: block;
   overflow-x: auto;
   white-space: nowrap;
+}
+
+.secound-country h3{
+  font-size:  19px !important;
 }
