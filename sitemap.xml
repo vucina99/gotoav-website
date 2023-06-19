@@ -1,60 +1,93 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
-    <url>
-        <loc>http://www.advokatigotovac.com/</loc>
-    </url>
-
     <url>
         <loc>http://www.advokatigotovac.com/#hero</loc>
+        <lastmod>2023-06-19</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
     </url>
-
     <url>
         <loc>http://www.advokatigotovac.com/#about</loc>
+        <lastmod>2023-06-19</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
     </url>
-
     <url>
         <loc>http://www.advokatigotovac.com/#services</loc>
+        <lastmod>2023-06-19</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
     </url>
     <url>
         <loc>http://www.advokatigotovac.com/#services/privredno-pravo</loc>
+        <lastmod>2023-06-19</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.6</priority>
     </url>
     <url>
         <loc>http://www.advokatigotovac.com/#services/porodicno-pravo</loc>
+        <lastmod>2023-06-19</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.6</priority>
     </url>
     <url>
         <loc>http://www.advokatigotovac.com/#services/krivicno-pravo</loc>
+        <lastmod>2023-06-19</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.6</priority>
     </url>
     <url>
         <loc>http://www.advokatigotovac.com/#services/obligaciono-pravo</loc>
+        <lastmod>2023-06-19</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.6</priority>
     </url>
     <url>
         <loc>http://www.advokatigotovac.com/#services/nasledno-pravo</loc>
+        <lastmod>2023-06-19</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.6</priority>
     </url>
     <url>
         <loc>http://www.advokatigotovac.com/#services/ugovorno-pravo</loc>
+        <lastmod>2023-06-19</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.6</priority>
     </url>
     <url>
         <loc>http://www.advokatigotovac.com/#services/pravo-osiguranja</loc>
+        <lastmod>2023-06-19</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.6</priority>
     </url>
     <url>
-        <loc>http://www.advokatigotovac.com/#services/usluge-pred-apr-om</loc>
+        <loc>http://www.advokatigotovac.com/#services/usluge-pred-APR-om</loc>
+        <lastmod>2023-06-19</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.6</priority>
     </url>
-
     <url>
-        <loc>http://www.advokatigotovac.com/#prices</loc>
+        <loc>http://www.advokatigotovac.com/assets/advokatska_tarifa.pdf</loc>
+        <lastmod>2023-06-19</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
     </url>
-
     <url>
         <loc>http://www.advokatigotovac.com/#faq</loc>
+        <lastmod>2023-06-19</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
     </url>
-
     <url>
         <loc>http://www.advokatigotovac.com/#team</loc>
+        <lastmod>2023-06-19</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
     </url>
-
     <url>
         <loc>http://www.advokatigotovac.com/#contact</loc>
+        <lastmod>2023-06-19</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
     </url>
-
 </urlset>
