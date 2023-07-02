@@ -110,8 +110,9 @@
 <section id="hero" class="d-flex align-items-center">
     <div class="container" data-aos="zoom-out" data-aos-delay="100">
         <h1>Gotovac <span>&</span> Saradnici</h1> <br>
-        <h2>Bavimo se pružanjem advokatskih usluga fizičkim i pravnim licima na teritoriji Republike Srbije i Republike Srpske
-            u postupcima za naknadu materijalne i nematerijalne štete zbog pretprljenih povreda, <br> zastupanjem privrednih subjekata i odbrana u krivičnim postupcima
+        <h2>
+            Bavimo se pružanjem advokatskih usluga fizičkim i pravnim licima na teritoriji Republike Srbije i Republike Srpske u postupcima za naknadu materijalne i nematerijalne štete zbog pretprljenih povreda proisteklih iz saobracajnih nezgoda, kao i
+            zastupanjem privrednih subjekata i odbranama u krivičnim postupcima
         </h2>
         <div class="d-flex">
             <a href="#about" class="btn-get-started scrollto">O nama <i class="bi bi-chevron-double-down"></i> </a>
@@ -1865,8 +1866,7 @@
                         <h3>Naša Adresa</h3>
                         <p> <span class="text-primary"> Republika Srbija</span> <br>
                             Beograd, Španskih Boraca 24v</p> <br>
-                        <p><span class="text-primary  "> Republika Srpska BIH </span>  <br>
-                            Zvornik ul.Svetog Save 56</p>
+
                     </div>
                 </div>
 
@@ -1876,8 +1876,7 @@
                         <h3>Naš E-mail</h3>
                         <p> <span class="text-primary"> Republika Srbija</span> <br>
                             advgotovac@gmail.com</p> <br>
-                        <p><span class="text-primary  "> Republika Srpska BIH </span>  <br>
-                            jovangotovac@gmail.com</p>
+
                     </div>
                 </div>
 
@@ -1887,12 +1886,45 @@
                         <h3>Naš broj</h3>
                         <p> <span class="text-primary"> Republika Srbija</span> <br>
                             +381 (0)63/417-117</p> <br>
+
+                    </div>
+                </div>
+
+            </div>
+
+
+
+            <div class="row" data-aos="fade-up" data-aos-delay="100">
+                <div class="col-lg-6">
+                    <div class="info-box mb-4">
+                        <i class="bx bx-map"></i>
+                        <h3>Naša Adresa</h3>
+                        <p><span class="text-primary  "> Republika Srpska BIH </span>  <br>
+                            Zvornik ul.Svetog Save 56</p>
+                    </div>
+                </div>
+
+                <div class="col-lg-3 col-md-6">
+                    <div class="info-box  mb-4">
+                        <i class="bx bx-envelope"></i>
+                        <h3>Naš E-mail</h3>
+                        <p><span class="text-primary  "> Republika Srpska BIH </span>  <br>
+                            jovangotovac@gmail.com</p>
+                    </div>
+                </div>
+
+                <div class="col-lg-3 col-md-6">
+                    <div class="info-box  mb-4">
+                        <i class="bx bx-phone-call"></i>
+                        <h3>Naš broj</h3>
                         <p><span class="text-primary  "> Republika Srpska BIH </span>  <br>
                             +387 (0)65/325-077</p>
                     </div>
                 </div>
 
             </div>
+
+
 
             <div class="row" data-aos="fade-up" data-aos-delay="100">
 
@@ -1967,12 +1999,11 @@
                     <h3>Gotovac<span> & </span> Saradnici</h3>
                     <p>
                         <strong> Republika Srbija  - Beograd : </strong> <br> Beograd, Španskih Boraca 24v <br>
-                        <strong> Republika Srpska BIH  - Zvornik : </strong> <br> Zvornik ul.Svetog Save 56 <br><br>
-
                         <strong>Mobilni  ( Republika Srbija  - Beograd ) :</strong> <br> +381 (0)63/417-117<br>
-                        <strong>Mobilni  ( Republika Srpska BIH  - Zvornik ) : </strong> <br> +387 (0)65/325-077<br><br>
+                        <strong>Fiksni ( Republika Srbija  - Beograd ): </strong> <br> +381116906807<br><br>
 
-                        <strong>Fiksni ( Republika Srbija  - Beograd ): </strong> <br> +381116906807<br>
+                        <strong> Republika Srpska BIH  - Zvornik : </strong> <br> Zvornik ul.Svetog Save 56 <br>
+                        <strong>Mobilni  ( Republika Srpska BIH  - Zvornik ) : </strong> <br> +387 (0)65/325-077<br>
                         <strong>Fiksni ( Republika Srpska - Zvornik ): </strong> <br>  +38756210752<br>
                     </p>
                 </div>
