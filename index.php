@@ -57,20 +57,19 @@
         <div class="contact-info d-flex align-items-center">
             <i class="bi bi-envelope d-flex align-items-center"><a href="mailto:advgotovac@gmail.com">
                     advgotovac@gmail.com </a></i>
-            <i class="bi bi-phone d-flex align-items-center ms-4"><span>+381 63417117</span></i>
+            <i class="bi bi-phone d-flex align-items-center ms-4"><span>+381116906807</span></i>
         </div>
 
     </div>
 </section>
 
-<!-- ======= Header ======= -->
 <header id="header" class="d-flex align-items-center">
     <div class="container d-flex align-items-center justify-content-between">
 
-        <h1 class="logo d-flex  align-items-center text-muted"><a href="index.html"><img src="assets/img/logo/new-full-logo.png" class=" w-100 img-fluid"
-                                                                                         alt="logo"></a> <span class="osnovano "> -  Osnovano 1996. godine</span> </h1>
-        <!-- Uncomment below if you prefer to use an image logo -->
-        <!-- <a href="index.html" class="logo"><img src="assets/img/logo.png" alt=""></a>-->
+        <h1 class="logo d-flex  align-items-center text-muted"><a href="index.html"><img
+                        src="assets/img/logo/new-full-logo.png" class=" w-100 img-fluid"
+                        alt="logo"></a> <span class="osnovano "> -  Osnovano 1996. godine</span></h1>
+
 
         <nav id="navbar" class="navbar">
             <ul>
@@ -80,10 +79,10 @@
                                 class="bi bi-chevron-down"></i></a>
                     <ul>
                         <li><a href="#" data-bs-toggle="modal" data-bs-target="#privredno">Privredno pravo</a></li>
-                        <li><a href="#" data-bs-toggle="modal" data-bs-target="#porodica">Porodično pravo</a></li>
+
                         <li><a href="#" data-bs-toggle="modal" data-bs-target="#krivica">Krivično pravo</a></li>
                         <li><a href="#" data-bs-toggle="modal" data-bs-target="#obligaciono">Obligaciono pravo</a></li>
-                        <li><a href="#" data-bs-toggle="modal" data-bs-target="#nasledno">Nasledno pravo</a></li>
+
                         <li><a href="#" data-bs-toggle="modal" data-bs-target="#ugovorno">Ugovorno pravo</a></li>
                         <li><a href="#" data-bs-toggle="modal" data-bs-target="#pravo">Pravo osiguranja </a></li>
                         <li><a href="#" data-bs-toggle="modal" data-bs-target="#apr">Usluge pred APR-om </a></li>
@@ -101,416 +100,23 @@
     </div>
 </header><!-- End Header -->
 
-<!-- ======= Hero Section ======= -->
+
 <section id="hero" class="d-flex align-items-center">
     <div class="container" data-aos="zoom-out" data-aos-delay="100">
         <h1>Gotovac <span>&</span> Saradnici</h1> <br>
         <h2>
-            Bavimo se pružanjem advokatskih usluga fizičkim i pravnim licima na teritoriji Republike Srbije i Republike Srpske u postupcima za naknadu materijalne i nematerijalne štete zbog pretprljenih povreda proisteklih iz saobracajnih nezgoda, kao i
+            Bavimo se pružanjem advokatskih usluga fizičkim i pravnim licima na teritoriji Republike Srbije i Republike
+            Srpske u postupcima za naknadu materijalne i nematerijalne štete zbog pretprljenih povreda proisteklih iz
+            saobracajnih nezgoda, kao i
             zastupanjem privrednih subjekata i odbranama u krivičnim postupcima
         </h2>
         <div class="d-flex">
             <a href="#about" class="btn-get-started scrollto">O nama <i class="bi bi-chevron-double-down"></i> </a>
         </div>
     </div>
-</section><!-- End Hero -->
+</section>
 
 <main id="main">
-
-    <!--    <!-- MODALS -->-->
-    <!--    <div class="modal  modal-xl" id="prices" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">-->
-    <!--        <div class="modal-dialog">-->
-    <!--            <div class="modal-content">-->
-    <!--                <div class="modal-header">-->
-    <!--                    <h5 class="modal-title" id="exampleModalLabel">Tarife</h5>-->
-    <!--                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>-->
-    <!--                </div>-->
-    <!--                <div class="modal-body">-->
-    <!--                    <div class="w-100">-->
-    <!--                        <table class="table table table-bordered border-muted w-100 price w-100">-->
-    <!--                            <thead class="bg-primary text-light ">-->
-    <!--                            <tr>-->
-    <!--                                <th scope="col">Vrednost spora</th>-->
-    <!--                                <th scope="col">Stavka</th>-->
-    <!--                                <th scope="col">Cena</th>-->
-    <!--                            </tr>-->
-    <!--                            </thead>-->
-    <!--                            <tbody>-->
-    <!--                            <tr>-->
-    <!--                                <td rowspan="4">do 450.000,00 din</td>-->
-    <!--                                <td>Sastav podneska</td>-->
-    <!--                                <td>6.000,00 din</td>-->
-    <!--                            </tr>-->
-    <!--                            <tr>-->
-    <!--                                <td>Zastupanje na ročištu</td>-->
-    <!--                                <td>7.500,00 din</td>-->
-    <!--                            </tr>-->
-    <!--                            <tr>-->
-    <!--                                <td>Odloženo ročište</td>-->
-    <!--                                <td>4.500,00 din</td>-->
-    <!--                            </tr>-->
-    <!--                            <tr>-->
-    <!--                                <td>Sastav žalbe</td>-->
-    <!--                                <td>12.000,00 din</td>-->
-    <!--                            </tr>-->
-    <!--                            <tr>-->
-    <!--                                <td rowspan="4">od 450.000,00 din <br> do <br> 750.000,00 din</td>-->
-    <!--                                <td>Sastav podneska</td>-->
-    <!--                                <td>9.000,00 din</td>-->
-    <!--                            </tr>-->
-    <!--                            <tr>-->
-    <!--                                <td>Zastupanje na ročištu</td>-->
-    <!--                                <td>10.500,00 din</td>-->
-    <!--                            </tr>-->
-    <!--                            <tr>-->
-    <!--                                <td>Odloženo ročište</td>-->
-    <!--                                <td>6.000,00 din</td>-->
-    <!--                            </tr>-->
-    <!--                            <tr>-->
-    <!--                                <td>Sastav žalbe</td>-->
-    <!--                                <td>18.000,00 din</td>-->
-    <!--                            </tr>-->
-    <!--                            <tr>-->
-    <!--                                <td rowspan="4">od 750.000,00 din <br> do <br> 1.500.000,00 din</td>-->
-    <!--                                <td>Sastav podneska</td>-->
-    <!--                                <td>11.250,00 din</td>-->
-    <!--                            </tr>-->
-    <!--                            <tr>-->
-    <!--                                <td>Zastupanje na ročištu</td>-->
-    <!--                                <td>12.750,00 din</td>-->
-    <!--                            </tr>-->
-    <!--                            <tr>-->
-    <!--                                <td>Odloženo ročište</td>-->
-    <!--                                <td>7.125,00 din</td>-->
-    <!--                            </tr>-->
-    <!--                            <tr>-->
-    <!--                                <td>Sastav žalbe</td>-->
-    <!--                                <td>22.500,00 din</td>-->
-    <!--                            </tr>-->
-    <!--                            <tr>-->
-    <!--                                <td rowspan="4">od 1.500.000,00 din <br> do <br> 3.000.000,00 din</td>-->
-    <!--                                <td>Sastav podneska</td>-->
-    <!--                                <td>16.500,00 din</td>-->
-    <!--                            </tr>-->
-    <!--                            <tr>-->
-    <!--                                <td>Zastupanje na ročištu</td>-->
-    <!--                                <td>18.000,00 din</td>-->
-    <!--                            </tr>-->
-    <!--                            <tr>-->
-    <!--                                <td>Odloženo ročište</td>-->
-    <!--                                <td>9.750,00 din</td>-->
-    <!--                            </tr>-->
-    <!--                            <tr>-->
-    <!--                                <td>Sastav žalbe</td>-->
-    <!--                                <td>33.000,00 din</td>-->
-    <!--                            </tr>-->
-    <!--                            <tr>-->
-    <!--                                <td rowspan="4">od 3.000.000,00 din <br> do <br> 6.000.000,00 din</td>-->
-    <!--                                <td>Sastav podneska</td>-->
-    <!--                                <td>22.500,00 din</td>-->
-    <!--                            </tr>-->
-    <!--                            <tr>-->
-    <!--                                <td>Zastupanje na ročištu</td>-->
-    <!--                                <td>24.000,00 din</td>-->
-    <!--                            </tr>-->
-    <!--                            <tr>-->
-    <!--                                <td>Odloženo ročište</td>-->
-    <!--                                <td>12.750,00 din</td>-->
-    <!--                            </tr>-->
-    <!--                            <tr>-->
-    <!--                                <td>Sastav žalbe</td>-->
-    <!--                                <td>45.000,00 din</td>-->
-    <!--                            </tr>-->
-    <!--                            <tr>-->
-    <!--                                <td rowspan="4">od 6.000.000,00 din <br> do <br> 12.000.000,00 din</td>-->
-    <!--                                <td>Sastav podneska</td>-->
-    <!--                                <td>30.000,00 din</td>-->
-    <!--                            </tr>-->
-    <!--                            <tr>-->
-    <!--                                <td>Zastupanje na ročištu</td>-->
-    <!--                                <td>31.500,00 din</td>-->
-    <!--                            </tr>-->
-    <!--                            <tr>-->
-    <!--                                <td>Odloženo ročište</td>-->
-    <!--                                <td>16.500,00 din</td>-->
-    <!--                            </tr>-->
-    <!--                            <tr>-->
-    <!--                                <td>Sastav žalbe</td>-->
-    <!--                                <td>60.000,00 din</td>-->
-    <!--                            </tr>-->
-    <!---->
-    <!---->
-    <!--                            <tr>-->
-    <!--                                <td rowspan="4">od 12.000.000,00 din <br> do <br> 24.000.000,00 din</td>-->
-    <!--                                <td>sastav podneska</td>-->
-    <!--                                <td>37.500,00 din</td>-->
-    <!--                            </tr>-->
-    <!--                            <tr>-->
-    <!--                                <td>zastupanje na ročištu</td>-->
-    <!--                                <td>39.000,00 din</td>-->
-    <!--                            </tr>-->
-    <!--                            <tr>-->
-    <!--                                <td>odloženo ročište</td>-->
-    <!--                                <td>20.250,00 din</td>-->
-    <!--                            </tr>-->
-    <!--                            <tr>-->
-    <!--                                <td>sastav žalbe</td>-->
-    <!--                                <td>78.000,00 din</td>-->
-    <!--                            </tr>-->
-    <!--                            <tr>-->
-    <!--                                <td rowspan="4">od 24.000.000,00 din <br> do <br> 48.000.000,00 din</td>-->
-    <!--                                <td>sastav podneska</td>-->
-    <!--                                <td>45.000,00 din</td>-->
-    <!--                            </tr>-->
-    <!--                            <tr>-->
-    <!--                                <td>zastupanje na ročištu</td>-->
-    <!--                                <td>46.500,00 din</td>-->
-    <!--                            </tr>-->
-    <!--                            <tr>-->
-    <!--                                <td>odloženo ročište</td>-->
-    <!--                                <td>24.000,00 din</td>-->
-    <!--                            </tr>-->
-    <!--                            <tr>-->
-    <!--                                <td>sastav žalbe</td>-->
-    <!--                                <td>90.000,00 din</td>-->
-    <!--                            </tr>-->
-    <!--                            <tr>-->
-    <!--                                <td rowspan="4">od 48.000.000,00 din <br> do <br> 120.000.000,00 din <br>-->
-    <!--                                    (na započetih 300.000,00 din nagrada <br> od 45.000,00 din se uvećava <br> za po 30-->
-    <!--                                    din )-->
-    <!--                                </td>-->
-    <!---->
-    <!--                                <td>sastav podneska</td>-->
-    <!--                                <td>45.000,00 din + po 30 din</td>-->
-    <!--                            </tr>-->
-    <!--                            <tr>-->
-    <!--                                <td>zastupanje na ročištu</td>-->
-    <!--                                <td>45.000,00 din + po 30 din + 1.500,00 din</td>-->
-    <!--                            </tr>-->
-    <!--                            <tr>-->
-    <!--                                <td>odloženo ročište</td>-->
-    <!--                                <td>1/2 podneska + 1.500,00 din</td>-->
-    <!--                            </tr>-->
-    <!--                            <tr>-->
-    <!--                                <td>sastav žalbe</td>-->
-    <!--                                <td>podnesak + 100 %</td>-->
-    <!--                            </tr>-->
-    <!--                            <tr>-->
-    <!--                                <td rowspan="4">od 120.000.000,00 din <br> do <br> 300.000.000,00 din <br>-->
-    <!--                                    (na započetih 900.000,00 din nagrada <br> od 52.200,00 din se uvećava <br> za po 30-->
-    <!--                                    din )-->
-    <!---->
-    <!---->
-    <!--                                </td>-->
-    <!--                                <td>sastav podneska</td>-->
-    <!--                                <td>52.200,00 din + po 30 din</td>-->
-    <!--                            </tr>-->
-    <!--                            <tr>-->
-    <!--                                <td>zastupanje na ročištu</td>-->
-    <!--                                <td>52.200,00 din + po 30 din + 1.500,00 din</td>-->
-    <!--                            </tr>-->
-    <!--                            <tr>-->
-    <!--                                <td>odloženo ročište</td>-->
-    <!--                                <td>1/2 podneska + 1.500,00 din</td>-->
-    <!--                            </tr>-->
-    <!--                            <tr>-->
-    <!--                                <td>sastav žalbe</td>-->
-    <!--                                <td>podnesak + 100 %</td>-->
-    <!--                            </tr>-->
-    <!---->
-    <!---->
-    <!--                            <tr>-->
-    <!--                                <td rowspan="5">preko 300.000.000,01 din <br> (na započetih 4.500.000,00 din nagrada-->
-    <!--                                    <br> od 58.200,00 din se uvećava-->
-    <!--                                    <br>za po 30 din)-->
-    <!--                                </td>-->
-    <!--                                <td>sastav podneska</td>-->
-    <!--                                <td>58.200,00 din + po 30 din <br> (maksimalno do 88.200,00 din)</td>-->
-    <!--                            </tr>-->
-    <!--                            <tr>-->
-    <!--                                <td>zastupanje na ročištu</td>-->
-    <!--                                <td>58.200,00 din + po 30 din <br> (maksimalno do 88.200,00 din) + 1.500,00 din</td>-->
-    <!--                            </tr>-->
-    <!--                            <tr>-->
-    <!--                                <td>odloženo ročište</td>-->
-    <!--                                <td>1/2 podneska + 1.500,00 din</td>-->
-    <!--                            </tr>-->
-    <!--                            <tr>-->
-    <!--                                <td>sastav žalbe</td>-->
-    <!--                                <td>podnesak + 100 %</td>-->
-    <!--                            </tr>-->
-    <!--                            <tr>-->
-    <!--                                <td colspan="2">-->
-    <!--                                    Sastav Ugovora i opštih akata 1,5 % od vrednosti ugovora ili <br> 100 % od Tarifnog-->
-    <!--                                    broj 13 <br><br>-->
-    <!---->
-    <!--                                    Pravni savet usmeni 50 %, a pismeni 100% od od tarifnog broja 13<br><br>-->
-    <!---->
-    <!--                                    Tarifni broj 14 – neprocenjivi predmeti<br><br>-->
-    <!---->
-    <!--                                    Za sastavljanje tužbe, predloga, molbe, zahteva i drugih podnesaka kojima <br>-->
-    <!--                                    se pokreće postupak u neprocenjivim <br> predmetima, advokatu pripada nagrada, i to:<br><br>-->
-    <!---->
-    <!--                                    1) Smetanje poseda, razvod, neprocenjivi radni sporovi, ostali prekršaji,<br>-->
-    <!--                                    pred sudom šasti, porodični ( vanparnica ), upis u katastar-neprocenjivi-->
-    <!--                                    predmeti,<br>-->
-    <!--                                    upravni postupak i spor (ZoPiI i Porodični I ostali) upis u APR-->
-    <!--                                    <br>-->
-    <!--                                    -sastav podneska...................16.500,00 din<br>-->
-    <!---->
-    <!--                                    -zastupanje na ročištu............18.000,00 din<br>-->
-    <!---->
-    <!--                                    -odloženo ročište.....................9.750,00 din<br>-->
-    <!---->
-    <!--                                    -sastav žalbe..........................33.000,00 din<br><br>-->
-    <!---->
-    <!--                                    2) Postupci pred državnim organom ostali<br>-->
-    <!---->
-    <!--                                    -sastav podneska...................19.500,00 din<br>-->
-    <!---->
-    <!--                                    -zastupanje na ročištu............21.000,00 din<br>-->
-    <!---->
-    <!--                                    -odloženo ročište...................11.250,00 din<br>-->
-    <!---->
-    <!--                                    -sastav žalbe..........................39.000,00 din<br><br>-->
-    <!---->
-    <!--                                    3) Postupci vezano za službenosti, stambeni, <br> prekršaj pred policijom, ostali-->
-    <!--                                    sporovi OS<br>-->
-    <!---->
-    <!--                                    -sastav podneska...................22.500,00 din<br>-->
-    <!---->
-    <!--                                    -zastupanje na ročištu............24.000,00 din<br>-->
-    <!---->
-    <!--                                    -odloženo ročište...................12.750,00 din<br>-->
-    <!---->
-    <!--                                    -sastav žalbe..........................45.000,00 din<br><br>-->
-    <!---->
-    <!--                                    4) Postupci vezano za utvrđivanje očinstva, <br> prekršaji pred Prekršajnim sudom,-->
-    <!--                                    uređenje ličnih stanja, <br>stečaj i likvidacija ( neprocenjivi ) upravni postupk i-->
-    <!--                                    spor pred inspekcijama, <br> domaća arbitrža i medijacija ( neprocenjivi ), ostali-->
-    <!--                                    pred PS-->
-    <!--                                    <br>-->
-    <!--                                    -sastav podneska...................25.500,00 din<br>-->
-    <!---->
-    <!--                                    -zastupanje na ročištu............27.000,00 din<br>-->
-    <!---->
-    <!--                                    -odloženo ročište...................14.250,00 din<br>-->
-    <!---->
-    <!--                                    -sastav žalbe..........................54.000,00 din<br><br>-->
-    <!---->
-    <!--                                    5) zakonsko izdržavanje<br>-->
-    <!---->
-    <!--                                    -sastav podneska...................6.000,00 din<br>-->
-    <!---->
-    <!--                                    -zastupanje na ročištu............7.500,00 din<br>-->
-    <!---->
-    <!--                                    -odloženo ročište...................4.500,00 din<br>-->
-    <!---->
-    <!--                                    -sastav žalbe........................12.000,00 din<br><br>-->
-    <!---->
-    <!--                                    6) vršenje roditeljskog prava<br>-->
-    <!---->
-    <!--                                    -sastav podneska...................11.250,00 din<br>-->
-    <!---->
-    <!--                                    -zastupanje na ročištu............12.750,00 din<br>-->
-    <!---->
-    <!--                                    -odloženo ročište.....................7.125,00 din<br>-->
-    <!---->
-    <!--                                    -sastav žalbe..........................22.500,00 din<br><br>-->
-    <!---->
-    <!--                                    7) privredni prestupi, uređenje imovinskih odnosa – neprocenjivo, ostale vanparnice,-->
-    <!--                                    <br> upavni postupak i spor ( poreski, carinski, policija) ostali sporovi VS-->
-    <!--                                    <br>-->
-    <!--                                    -sastav podneska...................30.000,00 din<br>-->
-    <!---->
-    <!--                                    -zastupanje na ročištu............31.500,00 din<br>-->
-    <!---->
-    <!--                                    -odloženo ročište...................16.500,00 din<br>-->
-    <!---->
-    <!--                                    -sastav žalbe..........................60.000,00 din<br><br>-->
-    <!---->
-    <!--                                    8) ostali sporovi pred Upravnim sudom<br>-->
-    <!---->
-    <!--                                    -sastav podneska...................36.000,00 din<br>-->
-    <!---->
-    <!--                                    -zastupanje na ročištu............37.500,00 din<br>-->
-    <!---->
-    <!--                                    -odloženo ročište...................19.500,00 din<br>-->
-    <!---->
-    <!--                                    -sastav žalbe..........................72.000,00 din<br><br>-->
-    <!---->
-    <!--                                    9) Autorski sporovi ( neprocenjivi) postupci pred Ustavnim sudom, <br> međunarodnim-->
-    <!--                                    sudom i arbitražom ( neprocenjivi)<br>-->
-    <!---->
-    <!--                                    -sastav podneska....................45.000,00 din<br>-->
-    <!---->
-    <!--                                    -zastupanje na ročištu.............46.500,00 din<br>-->
-    <!---->
-    <!--                                    -odloženo ročište....................24.000,00 din<br>-->
-    <!---->
-    <!--                                    -sastav žalbe...........................90.000,00 din<br>-->
-    <!--                                </td>-->
-    <!--                            </tr>-->
-    <!---->
-    <!---->
-    <!--                            <tr>-->
-    <!--                                <td rowspan="8">NEPROCENJIVI UGOVORI I OPŠTI AKTI-->
-    <!---->
-    <!---->
-    <!--                                </td>-->
-    <!--                                <td>ortački, generalni ( opšti ) statut, <br> osnivački akt pravnih lica</td>-->
-    <!--                                <td>30.000,00 din</td>-->
-    <!--                            </tr>-->
-    <!--                            <tr>-->
-    <!--                                <td>korišćenje zajedničke stvari, <br> predugovori, pojedinačni akti državnih organa-->
-    <!--                                    <br> i lokalne samouprave-->
-    <!--                                </td>-->
-    <!--                                <td>22.500,00 din</td>-->
-    <!--                            </tr>-->
-    <!--                            <tr>-->
-    <!--                                <td>testament (neprocenjivo) ostali <br> neprocenjivi ugovori, <br> pojedinačni akti-->
-    <!--                                    pravnih lica-->
-    <!--                                </td>-->
-    <!--                                <td>19.500,00 din</td>-->
-    <!--                            </tr>-->
-    <!--                            <tr>-->
-    <!--                                <td>Punomoć</td>-->
-    <!--                                <td>13.500,00 din</td>-->
-    <!--                            </tr>-->
-    <!---->
-    <!---->
-    <!--                            <tr>-->
-    <!--                                <td>ostale izjave</td>-->
-    <!--                                <td>11.250,00 din</td>-->
-    <!--                            </tr>-->
-    <!--                            <tr>-->
-    <!--                                <td>ugovor o posluzi</td>-->
-    <!--                                <td>16.500,00 din</td>-->
-    <!--                            </tr>-->
-    <!--                            <tr>-->
-    <!--                                <td>ugovor o trgovinskom zastupanju <br> ili posredovanju, <br> opšti akti pravnih lica-->
-    <!--                                </td>-->
-    <!--                                <td>25.500,00 din</td>-->
-    <!--                            </tr>-->
-    <!--                            <tr>-->
-    <!--                                <td>opšti akti državnih organa <br> i lokalne samouprave</td>-->
-    <!--                                <td>37.500,00 din</td>-->
-    <!--                            </tr>-->
-    <!---->
-    <!---->
-    <!--                            </tbody>-->
-    <!--                        </table>-->
-    <!--                    </div>-->
-    <!--                </div>-->
-    <!--                <div class="modal-footer">-->
-    <!--                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Zatvori</button>-->
-    <!--                </div>-->
-    <!--            </div>-->
-    <!--        </div>-->
-    <!--    </div>-->
-
-
-
 
 
     <div class="modal  modal-xl" id="apr" tabindex="-1" aria-labelledby="exampleModalLabelapr" aria-hidden="true">
@@ -596,58 +202,6 @@
     </div>
 
 
-    <div class="modal  modal-xl" id="porodica" tabindex="-1" aria-labelledby="exampleModalLabelporodica"
-         aria-hidden="true">
-        <div class="modal-dialog">
-            <div class="modal-content">
-                <div class="modal-header">
-                    <h5 class="modal-title" id="exampleModalLabelporodica">Sporazumni razvod braka
-                    </h5>
-                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-                </div>
-                <div class="modal-body">
-                    <div class="w-100">
-                        <p>
-                            Brak je zakonom uređena zajednica života žene i muškarca. Bračni drugovi su dužni da vode
-                            zajednički život i da se uzajamno poštuju i pomažu.
-                            <br>
-                            Međutim, ukoliko se odnosi bračnih drugova poremete i ukoliko brak postane disfunkcionalan
-                            odnos pun razočarenja, potrebno je pronaći advokata koji će na najbolji način zastupati vaše
-                            interese u brakorazvodnoj parnici.
-                            <br><br>
-                            Postupak razvoda braka se može pokrenuti na dva načina:<br>
-
-                            1. Uvek, ukoliko je to moguće, predlažemo da supružnici pokusaju da prevazidju medjusobne
-                            nesuglasice i da zaključe PREDLOG ZA SPORAZUMNI RAZVOD BRAKA. U ovom slučaju potrebno je da
-                            se supružnici sporazumeju o svim pitanjima značajnim za razvod braka(poveravanje deteta,
-                            deoba zajedničke imovine,visina doprinosa za izdržavanje deteta i način održavanja ličnih
-                            odnosa deteta sa drugim roditeljom). Predlažemo da, kada je god to moguće, supružnici
-                            razvedu svoj brak na ovaj sporazumni način jer je sudski postupak po predlogu za sporazumni
-                            razvod braka mnogo brži i ekonomičniji i u većini slučajeva se okonča na prvom ročištu, za
-                            razliku od postupka razvoda braka koji se pokreće tužbom.
-                            <br><br>
-                            2. Ukoliko supružnici ne mogu da se sporazumeju oko razvoda braka neophodno je da se pokrene
-                            postupak TUŽBOM za razvod braka.U okviru postupka razvoda po tužbi predviđen je i postupak
-                            posredovanja kako bi se stranke pomirile ili postigle dogovor oko najvažnijih pitanja. Ako
-                            se u postupku mirenja supružnici pomire, smatraće se da je tužba za razvod braka povučena.
-                            Ukoliko do mirenja ne dođe, smatraće se da mirenje nije uspelo i nastaviće se postupak
-                            nagodbe. Svrha nagodbe je da se odnos supružnika razreši bez konflikta.
-                            <br><br>
-                            Ako ni postupak nagodbe ne bude uspešan tj. ako se predlog za sporazumni razvod braka ili
-                            tužba ne povuku do zakljčenja glavne rasprave, sud donosi presudu u kojoj razvodi brak."
-                        </p>
-
-
-                    </div>
-                </div>
-                <div class="modal-footer">
-                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Zatvori</button>
-                </div>
-            </div>
-        </div>
-    </div>
-
-
     <div class="modal  modal-xl" id="krivica" tabindex="-1" aria-labelledby="exampleModalLabelkrivica"
          aria-hidden="true">
         <div class="modal-dialog">
@@ -700,47 +254,6 @@
                             </li>
                             <li>Modaliteti isplate duga.</li>
                             <li>Prinudna izvršenja i naplata potraživanja.
-                            </li>
-
-                        </ul>
-
-                    </div>
-                </div>
-                <div class="modal-footer">
-                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Zatvori</button>
-                </div>
-            </div>
-        </div>
-    </div>
-
-
-    <div class="modal  modal-xl" id="nasledno" tabindex="-1" aria-labelledby="exampleModalLabelnasledno"
-         aria-hidden="true">
-        <div class="modal-dialog">
-            <div class="modal-content">
-                <div class="modal-header">
-                    <h5 class="modal-title" id="exampleModalLabelnasledno">Nasledno pravo
-
-
-                    </h5>
-                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-                </div>
-                <div class="modal-body">
-                    <div class="w-100">
-
-
-                        <ul>
-                            <li>Pokretanje ostavinskog postupka.
-
-                            </li>
-                            <li>Savetovanje i podrška kod sastavljanja testamenta.</li>
-                            <li>Sprovođenje testamenta.
-                            </li>
-                            <li>Sastavljanje ugovora o raspolaganju imovinom za života.
-                            </li>
-                            <li>Sprovođenje i odbrana od zahteva nužnih naslednika.
-                            </li>
-                            <li>Savetovanje i zastupanje u naslednopravnim stvarima u sudskom postupku.
                             </li>
 
                         </ul>
@@ -945,9 +458,12 @@
                      data-aos-delay="100">
                     <h3>REPUBLIKA SRBIJA - BEOGRAD.</h3>
                     <p>
-                        Uža specijalnost advokatske kancelarije je zastupanje fizičkih i pravnih lica u postupcima naknade štete proistekle iz saobraćajnih nezgoda
-                        i povreda na radu, kao i zastupanje  domaćih i stranih pravnih lica u postupcima naplate potraživanja.
-                        Advokat Vladan Gotovac je treća generacija pravnika i poseduje iskustvo u postupanju u sporovima za naknadu štete i naplatu potraživanja velike vrednosti.
+                        Uža specijalnost advokatske kancelarije je zastupanje fizičkih i pravnih lica u postupcima
+                        naknade štete proistekle iz saobraćajnih nezgoda
+                        i povreda na radu, kao i zastupanje domaćih i stranih pravnih lica u postupcima naplate
+                        potraživanja.
+                        Advokat Vladan Gotovac je treća generacija pravnika i poseduje iskustvo u postupanju u sporovima
+                        za naknadu štete i naplatu potraživanja velike vrednosti.
                         <br><br>
                         <i class="bi bi-arrow-90deg-right text-primary"></i> &nbsp; Pročitaj više o zaposlenima <span
                                 data-bs-toggle="modal" data-bs-target="#exampleModalSrbija"
@@ -958,9 +474,12 @@
 
                     <h3>REPUBLIKA SRPSKA - BIH.</h3>
                     <p>
-                        Advokat Jovan Gotovac   pruža usluge iz oblasti privrednog i građanskog prava sa iskustvom zastupanja u sudskim postupcima visokog
-                        stepena složenosti i velike vrednosti kao i odbranama u krivičnim postupcima. Pruža advokatske usluge na teritoriji Republike Srpske.
-                        Advokat Jovan Gotovac  je treća generacija pravnika i poseduje iskustvo u postupanju u sporovima za naknadu štete
+                        Advokat Jovan Gotovac pruža usluge iz oblasti privrednog i građanskog prava sa iskustvom
+                        zastupanja u sudskim postupcima visokog
+                        stepena složenosti i velike vrednosti kao i odbranama u krivičnim postupcima. Pruža advokatske
+                        usluge na teritoriji Republike Srpske.
+                        Advokat Jovan Gotovac je treća generacija pravnika i poseduje iskustvo u postupanju u sporovima
+                        za naknadu štete
                         i naplatu potraživanja velike vrednosti.
 
                         <br><br>
@@ -997,11 +516,6 @@
                         kriminaliteta
                     </p><br>
 
-                    <p>
-                        <i class="bi bi-arrow-90deg-right text-primary"></i> &nbsp; <span class="text-primary"> Advokatski pripravnik Uroš Mišić </span>
-                        je na stručnoj praksi u advokatskoj kancelariji od decembra 2020. godine. Diplomirao je u
-                        januaru 2020. godine na Pravnom fakultetu Univerziteta u Beogradu.
-                    </p><br>
 
                     <p>
                         <i class="bi bi-arrow-90deg-right text-primary"></i> &nbsp; <span class="text-primary"> Advokatski pripravnik Natalija Krajinović </span>
@@ -1009,22 +523,23 @@
                         februaru 2021. godine na Pravnom fakultetu Univerziteta u Beogradu.
                     </p><br>
 
-                    <p>
-                        <i class="bi bi-arrow-90deg-right text-primary"></i> &nbsp; <span class="text-primary"> Advokatski pripravnik Slađana Negić </span>
-                        je na stručnoj praksi u advokatskoj kancelariji od septembra 2021. godine. Diplomirala je u junu
-                        2021. godine na Pravnom fakultetu Univerziteta u Beogradu.
-                    </p><br>
-
-                    <p>
-                        <i class="bi bi-arrow-90deg-right text-primary"></i> &nbsp; <span class="text-primary"> Advokatski pripravnik Kosta Panovski </span>
-                        je na stručnoj praksi u advokatskoj kancelariji od februara 2022. godine. Diplomirao je u
-                        septembru 2020. godine na Pravnom fakultetu Univerziteta u Beogradu.
-                    </p><br>
 
                     <p>
                         <i class="bi bi-arrow-90deg-right text-primary"></i> &nbsp; <span class="text-primary"> Advokatski pripravnik Milica Veličković  </span>
                         je na stručnoj praksi u advokatskoj kancelariji od decembra 2022. godine. Diplomirala je u
                         septembru 2022. godine na Pravnom fakultetu Univerziteta u Beogradu.
+                    </p><br>
+
+                    <p>
+                        <i class="bi bi-arrow-90deg-right text-primary"></i> &nbsp; <span class="text-primary"> Advokatski pripravnik Maria Lola Veinović  </span>
+                        je na stručnoj praksi u advokatskoj kancelariji od septembra 2023. godine. Diplomirala je u
+                        novembru 2022. godine na Pravnom fakultetu Univerziteta u Beogradu.
+                    </p><br>
+
+                    <p>
+                        <i class="bi bi-arrow-90deg-right text-primary"></i> &nbsp; <span class="text-primary"> Advokatski pripravnik Anastasija Bogdanović  </span>
+                        je na stručnoj praksi u advokatskoj kancelariji od marta 2024. godine. Diplomirala je u
+                        novembru 2023. godine na Pravnom fakultetu Univerziteta u Beogradu.
                     </p><br>
 
                     <p>
@@ -1051,9 +566,12 @@
                 <div class="modal-body">
                     <p>
                         <i class="bi bi-arrow-90deg-right text-primary"></i> &nbsp; <span class="text-primary"> Advokat Jovan Gotovac  </span>
-                        pruža usluge iz oblasti privrednog i građanskog prava sa iskustvom zastupanja u sudskim postupcima visokog
-                        stepena složenosti i velike vrednosti kao i odbranama u krivičnim postupcima. Pruža advokatske usluge na teritoriji Republike Srpske.
-                        Advokat Jovan Gotovac  je treća generacija pravnika i poseduje iskustvo u postupanju u sporovima za naknadu štete i naplatu potraživanja velike vrednosti.
+                        pruža usluge iz oblasti privrednog i građanskog prava sa iskustvom zastupanja u sudskim
+                        postupcima visokog
+                        stepena složenosti i velike vrednosti kao i odbranama u krivičnim postupcima. Pruža advokatske
+                        usluge na teritoriji Republike Srpske.
+                        Advokat Jovan Gotovac je treća generacija pravnika i poseduje iskustvo u postupanju u sporovima
+                        za naknadu štete i naplatu potraživanja velike vrednosti.
                     </p><br>
                     <p>
                         <i class="bi bi-arrow-90deg-right text-primary"></i> &nbsp; <span class="text-primary"> Advokat Dragan Gotovac </span>
@@ -1065,14 +583,11 @@
                     </p><br>
 
 
-
                     <p>
                         <i class="bi bi-arrow-90deg-right text-primary"></i> &nbsp; <span class="text-primary"> Advokatski pripravnik Tijana Ristić </span>
                         je na stručnoj praksi u advokatskoj kancelariji od septembra 2019. godine. Diplomirala je 2014.
                         godine na Pravnom fakultetu Univerziteta u Banjaluci.
                     </p><br>
-
-
 
 
                 </div>
@@ -1126,14 +641,57 @@
 
         </div>
     </section><!-- End Counts Section -->
-    <br><br>
+    <br>
+
+
+    <div class="container" data-aos="fade-up">
+
+        <div class="section-title">
+            <h2>Upozorenje</h2>
+            <h3>Važno obaveštenje svim <span>gradjanima</span></h3>
+            <br>
+        </div>
+
+        <div class="row">
+            <div class="col-lg-6 pt-lg-0 content d-flex flex-column justify-content-center" data-aos="fade-right" data-aos-delay="100">
+                <p>
+                    <b>Poštovani građani, apelujemo na vas da za sve pravne potrebe angažujete advokate koji su
+                        adekvatno obrazovani i kvalifikovani da Vam pruže kvalitetnu i stručnu pravnu pomoć. </b>
+                    <br><br>
+
+                    Pored toga, advokati i advokatske kancelarije su osigurani od profesionalne odgovornosti, što znači
+                    da, <b>u slučaju nastale štete prema klijentu, poseduju osiguranje i odgovaraju celokupnom svojom
+                        imovinom.</b> <br> <br> Za razliku od advokata, različite agencije, DOO firme i pojedinci koji se bave
+                    nadripisarstvom <b> (što je krivično delo) </b> nemaju stručna znanja, nemaju osiguranje i postoji veći rizik
+                    da će vas svojim neadekvatnim radom ili prevarom oštetiti.
+
+                    Pouzdane informacije o advokatima koji su zvanično upisani u imenik odgovarajuće Advokatske komore
+                    <b> možete pronaći na sajtovima AK </b>, gde ćete moći da izaberete kvalifikovanog advokata. <br><br>
+                    Na taj način
+                    ćete osigurati da Vam pravnu pomoć pruža <b> školovani i registrovani profesionalac </b>, umesto nadripisara
+                    i pojedinaca sumnjivih kvalifikacija i znanja.
+                </p>
+                <br>
+            </div>
+            <div class="col-lg-6 d-flex justify-content-center align-items-center  text-center" data-aos="fade-up"
+                 data-aos-delay="100">
+                <img src="assets/img/obavestenje.png" class="w-50" alt="onama">
+            </div>
+
+
+        </div>
+    </div>
+    <br><br><br>
+
     <!-- ======= Clients Section ======= -->
     <div class="lawbackground">
         <div class="lavsilver w-100 h-100 d-flex align-items-center justify-content-center">
             <div class="text-center">
                 <h5 class="text-center text-light">Uz Vas smo od 1996 godine.</h5> <br>
-                <a href="assets/advokatska_tarifa.pdf" target="_blank"><button class="btn btn-light" data-bs-toggle="modal" data-bs-target="#prices">Tarife <i
-                                class="bi bi-card-list"></i></button></a>
+                <a href="assets/advokatska_tarifa.pdf" target="_blank">
+                    <button class="btn btn-light" data-bs-toggle="modal" data-bs-target="#prices">Tarife <i
+                                class="bi bi-card-list"></i></button>
+                </a>
             </div>
 
         </div>
@@ -1162,16 +720,6 @@
                     </div>
                 </div>
 
-                <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-bs-toggle="modal"
-                     data-bs-target="#porodica" data-aos="zoom-in"
-                     data-aos-delay="200">
-                    <div class="icon-box w-100">
-                        <div class="icon"><img src="assets/img/icon/Porodicno-pravo.png" class="w-100"
-                                               alt="porodicno-pravo"></div>
-                        <h4>Porodično pravo</h4>
-                        <p>Zastupanje u brakorazvodnim postupcima</p>
-                    </div>
-                </div>
 
                 <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0" data-bs-toggle="modal"
                      data-bs-target="#krivica" data-aos="zoom-in"
@@ -1184,25 +732,16 @@
                     </div>
                 </div>
 
-                <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-bs-toggle="modal"
+                <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0" data-bs-toggle="modal"
                      data-bs-target="#obligaciono" data-aos="zoom-in" data-aos-delay="100">
                     <div class="icon-box w-100">
                         <div class="icon"><img src="assets/img/icon/Obligaciono.png" class="w-100"
                                                alt="obligaciono-pravo"></div>
-                        <h4>>Obligaciono pravo</h4>
+                        <h4>Obligaciono pravo</h4>
                         <p>Prinudna izvršenja i naplata potraživanja</p>
                     </div>
                 </div>
 
-                <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-bs-toggle="modal"
-                     data-bs-target="#nasledno" data-aos="zoom-in" data-aos-delay="200">
-                    <div class="icon-box w-100">
-                        <div class="icon"><img src="assets/img/icon/Nasledno-pravox.png" class="w-100"
-                                               alt="nasledno-pravo"></div>
-                        <h4>Nasledno pravo</h4>
-                        <p>Savetovanje i zastupanje u naslednopravnim stvarima u sudskom postupku</p>
-                    </div>
-                </div>
 
                 <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-bs-toggle="modal"
                      data-bs-target="#ugovorno" data-aos-delay="300">
@@ -1313,7 +852,8 @@
                     <ul class="faq-list">
                         <li>
                             <div data-bs-toggle="collapse" href="#faq2" class="collapsed question">Naknada štete <i
-                                        class="bi bi-chevron-down icon-show"></i><i class="bi bi-chevron-up icon-close"></i>
+                                        class="bi bi-chevron-down icon-show"></i><i
+                                        class="bi bi-chevron-up icon-close"></i>
                             </div>
                             <div id="faq2" class="collapse" data-bs-parent=".faq-list">
                                 <p>
@@ -1395,7 +935,8 @@
                                     <br><br>
                                     - Detaljnim proverama dužnikove poslovne situacije u zadnjih nekoliko godina preko
                                     sajta <a
-                                            href="www.boniteti.rs">www.boniteti.rs</a> (da li je dužnik već u sudskom sporu,
+                                            href="www.boniteti.rs">www.boniteti.rs</a> (da li je dužnik već u sudskom
+                                    sporu,
                                     šta ima od pokretne, a šta od nepokretne imovine, kada je imao blokadu računa, da li
                                     je likvidan, kada je predao pazar itd...),
                                     <br>
@@ -1502,7 +1043,8 @@
 
 
                         <li>
-                            <div data-bs-toggle="collapse" href="#faq7" class="collapsed question"> Sporazumni razvod braka <i
+                            <div data-bs-toggle="collapse" href="#faq7" class="collapsed question"> Sporazumni razvod
+                                braka <i
                                         class="bi bi-chevron-down icon-show"></i><i
                                         class="bi bi-chevron-up icon-close"></i></div>
                             <div id="faq7" class="collapse" data-bs-parent=".faq-list">
@@ -1635,7 +1177,7 @@
                 <p> Ljudi koji učestvuju u kvalitetu rada naše kancelarije</p>
             </div>
             <div class="section-title secound-country">
-                <h3> <br> <br>  REPUBLIKA SRBIJA  <span> - BEOGRAD</span></h3>
+                <h3><br> <br> REPUBLIKA SRBIJA <span> - BEOGRAD</span></h3>
             </div>
             <div class="row">
 
@@ -1644,16 +1186,6 @@
 
                         <div class="member-info  text-center">
                             <h4>Vladan Gotovac</h4>
-                            <span>Advokat</span>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
-                    <div class="member w-100">
-
-                        <div class="member-info  text-center">
-                            <h4>Kristina Đorđević</h4>
                             <span>Advokat</span>
                         </div>
                     </div>
@@ -1675,7 +1207,7 @@
                     <div class="member w-100">
 
                         <div class="member-info text-center">
-                            <h4>  Ivana Gotovac </h4>
+                            <h4> Ivana Gotovac </h4>
                             <span>Diplomirani pravnik </span>
                         </div>
                     </div>
@@ -1684,41 +1216,12 @@
 
                 <!--pripravnici-->
 
-                <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
-                    <div class="member w-100">
-
-                        <div class="member-info  text-center">
-                            <h4>Uroš Mišić</h4>
-                            <span>Advokatski pripravnik</span>
-                        </div>
-                    </div>
-                </div>
 
                 <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="200">
                     <div class="member w-100">
 
                         <div class="member-info  text-center">
                             <h4>Natalija Krajinović</h4>
-                            <span>Advokatski pripravnik</span>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="300">
-                    <div class="member w-100">
-
-                        <div class="member-info  text-center">
-                            <h4> Slađana Negić</h4>
-                            <span>Advokatski pripravnik</span>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="400">
-                    <div class="member w-100">
-
-                        <div class="member-info text-center">
-                            <h4> Kosta Panovski</h4>
                             <span>Advokatski pripravnik</span>
                         </div>
                     </div>
@@ -1748,7 +1251,25 @@
                     </div>
                 </div>
 
-             
+                <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
+                    <div class="member w-100">
+
+                        <div class="member-info  text-center">
+                            <h4>Maria Lola Veinović</h4>
+                            <span>Advokatski pripravnik</span>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
+                    <div class="member w-100">
+
+                        <div class="member-info  text-center">
+                            <h4>Anastasija Bogdanović</h4>
+                            <span>Advokatski pripravnik</span>
+                        </div>
+                    </div>
+                </div>
 
 
                 <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="400">
@@ -1762,11 +1283,9 @@
                 </div>
 
 
-
                 <div class="section-title secound-country">
-                    <h3>  <br> <br> REPUBLIKA SRPSKA  <span> - BIH</span></h3>
+                    <h3><br> <br> REPUBLIKA SRPSKA <span> - BIH</span></h3>
                 </div>
-
 
 
                 <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="300">
@@ -1778,7 +1297,6 @@
                         </div>
                     </div>
                 </div>
-
 
 
                 <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="200">
@@ -1813,8 +1331,6 @@
                 </div>
 
 
-
-
                 <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="300">
                     <div class="member w-100">
 
@@ -1824,10 +1340,6 @@
                         </div>
                     </div>
                 </div>
-
-
-
-
 
 
             </div>
@@ -1851,7 +1363,7 @@
                     <div class="info-box mb-4">
                         <i class="bx bx-map"></i>
                         <h3>Naša Adresa</h3>
-                        <p> <span class="text-primary"> Republika Srbija</span> <br>
+                        <p><span class="text-primary"> Republika Srbija</span> <br>
                             Beograd, Španskih boraca 24v</p> <br>
 
                     </div>
@@ -1861,7 +1373,7 @@
                     <div class="info-box  mb-4">
                         <i class="bx bx-envelope"></i>
                         <h3>Naš E-mail</h3>
-                        <p> <span class="text-primary"> Republika Srbija</span> <br>
+                        <p><span class="text-primary"> Republika Srbija</span> <br>
                             advgotovac@gmail.com</p> <br>
 
                     </div>
@@ -1871,8 +1383,9 @@
                     <div class="info-box  mb-4">
                         <i class="bx bx-phone-call"></i>
                         <h3>Naš broj</h3>
-                        <p> <span class="text-primary"> Republika Srbija</span> <br>
-                            Mobilni : +381 (0)63/417-117 <br> Fiksni :   +381116906807</p>
+                        <p><span class="text-primary"> Republika Srbija</span> <br>
+                            Mobilni : +381 65/333-8933 <br>
+                            Fiksni : +381116906807</p> <br>
 
 
                     </div>
@@ -1881,13 +1394,12 @@
             </div>
 
 
-
             <div class="row" data-aos="fade-up" data-aos-delay="100">
                 <div class="col-lg-6">
                     <div class="info-box mb-4">
                         <i class="bx bx-map"></i>
                         <h3>Naša Adresa</h3>
-                        <p><span class="text-primary  "> Republika Srpska BIH </span>  <br>
+                        <p><span class="text-primary  "> Republika Srpska BIH </span> <br>
                             Zvornik ul.Svetog Save 56</p><br>
                     </div>
                 </div>
@@ -1896,7 +1408,7 @@
                     <div class="info-box  mb-4">
                         <i class="bx bx-envelope"></i>
                         <h3>Naš E-mail</h3>
-                        <p><span class="text-primary  "> Republika Srpska BIH </span>  <br>
+                        <p><span class="text-primary  "> Republika Srpska BIH </span> <br>
                             jovangotovac@gmail.com</p><br>
                     </div>
                 </div>
@@ -1905,7 +1417,7 @@
                     <div class="info-box  mb-4">
                         <i class="bx bx-phone-call"></i>
                         <h3>Naš broj</h3>
-                        <p><span class="text-primary  "> Republika Srpska BIH </span>  <br>
+                        <p><span class="text-primary  "> Republika Srpska BIH </span> <br>
                             Mobilni : +387 (0)65/325-077 <br>
                             Fiksni : +38756210752
                         </p>
@@ -1913,7 +1425,6 @@
                 </div>
 
             </div>
-
 
 
             <div class="row" data-aos="fade-up" data-aos-delay="100">
@@ -1988,15 +1499,16 @@
                 <div class="col-lg-3 col-md-6 footer-contact">
                     <h3>Gotovac<span> & </span> Saradnici</h3>
                     <p>
-                        <strong> Republika Srbija  - Beograd : </strong> <br> Beograd, Španskih boraca 24v <br>
-                        <strong>Mobilni   :</strong> <br> +381 (0)63/417-117<br>
-                        <strong>Fiksni : </strong> <br> +381116906807<br>
-                        <strong>E-mail   :</strong> <br>  advgotovac@gmail.com<br><br>
+                        <strong> Republika Srbija - Beograd : </strong> <br> Beograd, Španskih boraca 24v <br>
+                        <strong>Mobilni : </strong> <br> +381 65/333-8933 <br>
 
-                        <strong> Republika Srpska BIH  - Zvornik : </strong> <br> Zvornik ul.Svetog Save 56 <br>
-                        <strong>Mobilni  : </strong> <br> +387 (0)65/325-077<br>
-                        <strong>Fiksni : </strong> <br>  +38756210752<br>
-                        <strong>E-mail   :</strong> <br>jovangotovac@gmail.com<br>
+                        <strong>Fiksni : </strong> <br> +381116906807<br>
+                        <strong>E-mail :</strong> <br> advgotovac@gmail.com<br><br>
+
+                        <strong> Republika Srpska BIH - Zvornik : </strong> <br> Zvornik ul.Svetog Save 56 <br>
+                        <strong>Mobilni : </strong> <br> +387 (0)65/325-077<br>
+                        <strong>Fiksni : </strong> <br> +38756210752<br>
+                        <strong>E-mail :</strong> <br>jovangotovac@gmail.com<br>
                     </p>
                 </div>
 
@@ -2007,7 +1519,8 @@
                         <li><i class="bx bx-chevron-right"></i> <a href="#hero" class=" scrollto">Početna</a></li>
                         <li><i class="bx bx-chevron-right"></i> <a href="#about" class=" scrollto">O nama</a></li>
                         <li><i class="bx bx-chevron-right"></i> <a href="#services" class=" scrollto">Usluge</a></li>
-                        <li><i class="bx bx-chevron-right"></i> <a href="assets/advokatska_tarifa.pdf" target="_blank">Tarife</a></li>
+                        <li><i class="bx bx-chevron-right"></i> <a href="assets/advokatska_tarifa.pdf" target="_blank">Tarife</a>
+                        </li>
                         <li><i class="bx bx-chevron-right"></i> <a href="#faq" class=" scrollto">Pravni pojmovi</a></li>
                         <li><i class="bx bx-chevron-right"></i> <a href="#team" class=" scrollto">Tim</a></li>
                         <li><i class="bx bx-chevron-right"></i> <a href="#contact" class=" scrollto">Kontakt</a></li>
