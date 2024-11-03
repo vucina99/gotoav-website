@@ -543,6 +543,17 @@
                     </p><br>
 
                     <p>
+                        <i class="bi bi-arrow-90deg-right text-primary"></i> &nbsp; <span class="text-primary"> Advokatski pripravnik Milica Filipović  </span>
+                        je na stručnoj praksi u advokatskoj kancelariji od juna 2024. godine. Diplomirala je u
+                        aprilu 2024. godine na Pravnom fakultetu Univerziteta u Beogradu.
+                    </p><br>
+                    <p>
+                        <i class="bi bi-arrow-90deg-right text-primary"></i> &nbsp; <span class="text-primary"> Advokatski pripravnik Kristina Miketić  </span>
+                        je na stručnoj praksi u advokatskoj kancelariji od oktobra 2024. godine. Diplomirala je u
+                        junu 2024. godine na Pravnom fakultetu Univerziteta u Beogradu.
+                    </p><br>
+
+                    <p>
                         <i class="bi bi-arrow-90deg-right text-primary"></i> &nbsp; <span class="text-primary"> Office menadžer kancelarije Ana Albijanić </span>
                         Diplomirala je na Visokoj poslovnoj školi strukovnih studija, smer:finansije, računovodstvo i
                         bankarstvo.
@@ -1271,6 +1282,25 @@
                     </div>
                 </div>
 
+                <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
+                    <div class="member w-100">
+
+                        <div class="member-info  text-center">
+                            <h4>Milica Filipović</h4>
+                            <span>Advokatski pripravnik</span>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
+                    <div class="member w-100">
+
+                        <div class="member-info  text-center">
+                            <h4>Kristina Miketić</h4>
+                            <span>Advokatski pripravnik</span>
+                        </div>
+                    </div>
+                </div>
 
                 <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="400">
                     <div class="member w-100">
